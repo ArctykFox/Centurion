@@ -1,0 +1,8 @@
+discord.py==1.5.1
+requests==2.22.0
+beautifulsoup4==4.7.1
+lxml==4.5.0
+youtube-search==1.1.1
+matplotlib==3.0.3
+numpy==1.19.5
+plotly==4.14.3
